@@ -9,7 +9,7 @@
 **Структура репозитория:**
 
 1. `README.md` — краткое описание проекта, выбранного датасета и итоговых аналитических выводов.
-2. `used_car_price_dataset_extended.csv` - датасет о продолжительности жизни (https://www.kaggle.com/datasets/therohithanand/used-car-price-prediction?resource=download)
+2. `used_car_price_dataset_extended.csv` - датасет о предсказании цен на поддержаные автомобили (https://www.kaggle.com/datasets/therohithanand/used-car-price-prediction?resource=download)
 3. `SkripkoDanil_4231133_lab5.ipynb` — Jupyter Notebook с полностью исполненным кодом, построенными графиками и текстовыми Markdown-пояснениями к каждому этапу.
 4. `requirements.txt` — зафиксированные зависимости виртуального окружения.
 

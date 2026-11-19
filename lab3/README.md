@@ -9,13 +9,13 @@
 **Структура репозитория:**
 
 1. `README.md` — краткое описание проекта, выбранного датасета и итоговых аналитических выводов.
-2. `credit_card_fraud_dataset.csv` - датасет цен на поддержанные автомобили (https://www.kaggle.com/datasets/bhadramohit/credit-card-fraud-detection)
+2. `credit_card_fraud_dataset.csv` - датасет на выявление мошеннических транзакций (https://www.kaggle.com/datasets/bhadramohit/credit-card-fraud-detection)
 3. `SkripkoDanil_4231133_lab3.ipynb` — Jupyter Notebook с полностью исполненным кодом, построенными графиками и текстовыми Markdown-пояснениями к каждому этапу.
 4. `requirements.txt` — зафиксированные зависимости виртуального окружения.
 
 ## 3. Выбор датасета
 
-Был выбран датасет цен на выявление мошеннических транзакций - https://www.kaggle.com/datasets/bhadramohit/credit-card-fraud-detection
+Был выбран датасет на выявление мошеннических транзакций - https://www.kaggle.com/datasets/bhadramohit/credit-card-fraud-detection
 
 ## 4. Вывод
 
